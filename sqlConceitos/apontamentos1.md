@@ -28,3 +28,4 @@
 - DCL - Data Control Language(Linguagem de Controle de Dados). Administra o ambiente, acesso do usuario, o que cada usuario pode acessar, como armazenar tal tabela no disco, controle de logs,  qual vai ser a política de crescimento daquela tabela ao longo do tempo, na medida em que dados forem sendo incluídas nas tabelas.
 
 **Em 2019 melhorias pontuais nos módulos SQL**
+
