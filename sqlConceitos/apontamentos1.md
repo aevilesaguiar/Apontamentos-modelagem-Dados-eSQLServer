@@ -29,3 +29,8 @@
 
 **Em 2019 melhorias pontuais nos módulos SQL**
 
+<<<<<<< HEAD
+=======
+## Versões SQL
+<img src="https://user-images.githubusercontent.com/52088444/151203730-fde8c51e-7886-43c6-bc76-7b60f9805a9e.png" width="90%"></img> 
+>>>>>>> 43df8d9b6e85ce711382f49faddb7e2c2b1886a1
