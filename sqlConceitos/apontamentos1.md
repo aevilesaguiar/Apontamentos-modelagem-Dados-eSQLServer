@@ -129,6 +129,12 @@ DROP DATABASE[SUCOS_VENDAS_04]
 
 <img src="https://user-images.githubusercontent.com/52088444/151426322-56f00d63-155e-4405-9a84-72a8ea37dd65.png" width="45%"></img> 
 
+<img src="https://user-images.githubusercontent.com/52088444/151426929-505b2793-6f98-46f9-a80a-2655c39a790e.png" width="45%"></img> 
+
+<img src="https://user-images.githubusercontent.com/52088444/151427265-325b4315-8e18-4389-a01d-1a41f9cab5f8.png" width="45%"></img> 
+
+<img src="https://user-images.githubusercontent.com/52088444/151427353-7c6bfc75-b09a-4109-a334-e9683ac1eac5.png" width="45%"></img> 
+
 **Fiz o curso da alura com o SQL Develpment  e com a interface SQL Server Managment Studio**
 
 
