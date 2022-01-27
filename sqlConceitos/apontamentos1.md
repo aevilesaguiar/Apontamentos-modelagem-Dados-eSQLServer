@@ -105,10 +105,29 @@ DROP DATABASE[SUCOS_VENDAS_04]
 **Tipos de dados**
 <img src="https://user-images.githubusercontent.com/52088444/151423678-f7123bdb-ac1e-491a-8e66-eb7866fb4e62.png" width="30%"></img> 
 
-<img src="https://user-images.githubusercontent.com/52088444/151423773-75a01cfa-e501-4417-9a56-b773289185ba.png" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/52088444/151423773-75a01cfa-e501-4417-9a56-b773289185ba.png" width="60%"></img> 
 
+<img src="https://user-images.githubusercontent.com/52088444/151424034-2571df0a-96cf-48d8-ac2c-7edf0fa479a4.png" width="45%"></img> 
 
+<img src="https://user-images.githubusercontent.com/52088444/151424193-bfc14aa1-72c3-4bdb-a948-db02da667682.png" width="45%"></img> 
 
+<img src="https://user-images.githubusercontent.com/52088444/151424434-f09f7caa-df7d-401d-88c2-bbf36a2ead14.png" width="45%"></img> 
+
+<img src="https://user-images.githubusercontent.com/52088444/151424587-5ff9c4d9-fbee-4cb4-9086-a3871f4341e6.png" width="45%"></img> 
+
+<img src="https://user-images.githubusercontent.com/52088444/151425595-865b4477-a215-44e6-9751-a5b00822d1b5.png" width="45%"></img> 
+
+<img src="https://user-images.githubusercontent.com/52088444/151425727-b806305e-e7b4-4f29-a13f-c7b3a97028be.png" width="45%"></img> 
+
+<img src="https://user-images.githubusercontent.com/52088444/151425852-0f92f2cd-9325-4964-b285-82fdc0fcec70.png" width="45%"></img> 
+
+<img src="https://user-images.githubusercontent.com/52088444/151425951-b2349dfe-19d2-4335-86b8-f5474370aaa6.png" width="45%"></img> 
+
+<img src="https://user-images.githubusercontent.com/52088444/151426099-d038d507-ddc6-4726-931e-7d06811951e3.png" width="45%"></img> 
+
+<img src="https://user-images.githubusercontent.com/52088444/151426231-31e1a8ec-85e8-4a52-9027-b6da44928c75.png" width="45%"></img> 
+
+<img src="https://user-images.githubusercontent.com/52088444/151426322-56f00d63-155e-4405-9a84-72a8ea37dd65.png" width="45%"></img> 
 
 **Fiz o curso da alura com o SQL Develpment  e com a interface SQL Server Managment Studio**
 
