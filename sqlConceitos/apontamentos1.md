@@ -93,6 +93,10 @@ Dentro de cada tabela nós temos os dados da tabela
 Esse arquivo foi criado fora do local padrão do sql server, e nele foi informado o nome do arquivos, local onde será armazenado, tamanho
 inicial do arquivo, tamanho máximo e de quanto ele vai crescer, e a mesma coisa foi feito com o  arquivo de log(ldf)
         
+<img src="https://user-images.githubusercontent.com/52088444/151417530-234c07bf-9fdc-45cb-aaae-7436134f0e4e.png" width="90%"></img> 
+
+**Se fossemos criar da maneira padrão o BD**
+CREATE DATABASE SUCOS_VENDAS_01;
 
 **Fiz o curso da alura com o SQL Develpment  e com a interface SQL Server Managment Studio**
 
