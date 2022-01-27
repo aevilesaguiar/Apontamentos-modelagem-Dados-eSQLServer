@@ -50,9 +50,17 @@ A tabela é o componente mais importante do BD;
    - Constraints são regras de validação de dados , uma restrição por exemplo e se o campo pode receber vazio, ou não vazio(not null) 
    - Chave primaria(Primary key) não pode ter linhas com valores nas PKS repetidos , ou seja isso é uma constraint também.
    - Foreign key(chave estrangeira) - não podemos incluir valores no campo que não exista em outro campo de outra tabela, relacionamento entre tabelas, é através dela que existe o relacionamento, isso também é uma constraint
-   - 
+   - Visões(views) estrutura logica baseada em um comando de consulta sql. Ex: visao=Passa a valer como uma tabela, ou seja se  eu quiser sempre ver um dado ano quantde de compra, eu gero uma tabela lógica e não física, que é o caso da view.
+   - Programações, cada BD é implementado de uma forma(psql),  exemplo: 
+        IF(select)>0 then<br>
+        SET DATA=SELECT Y FROM TABELA;<br>
+        INSERT X INTO Y;<br>
+        END IF<br>
+   
+**As tabelas podem se agrupadas em esquemas (Schema).**
 
 
+## Conhecendo o SQL Server Management Studio
 
 
 
