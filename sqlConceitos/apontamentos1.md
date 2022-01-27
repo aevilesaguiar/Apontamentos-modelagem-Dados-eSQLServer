@@ -85,6 +85,15 @@ Dentro de cada tabela nós temos os dados da tabela
 - ldf arquivo de transações
 - Quando eu crio um arquivo no sql server são criados automaticamente os dois arquivos com o mesmo nome e as duas extensões mdf e ldf
 
+
+**Exemplo de criação de BD**
+
+<img src="https://user-images.githubusercontent.com/52088444/151417031-2d1ebb8c-b4e2-42f0-b699-0465195effe5.png" width="45%"></img> 
+
+Esse arquivo foi criado fora do local padrão do sql server, e nele foi informado o nome do arquivos, local onde será armazenado, tamanho
+inicial do arquivo, tamanho máximo e de quanto ele vai crescer, e a mesma coisa foi feito com o  arquivo de log(ldf)
+        
+
 **Fiz o curso da alura com o SQL Develpment  e com a interface SQL Server Managment Studio**
 
 
