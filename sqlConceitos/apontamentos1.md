@@ -135,6 +135,12 @@ DROP DATABASE[SUCOS_VENDAS_04]
 
 <img src="https://user-images.githubusercontent.com/52088444/151427353-7c6bfc75-b09a-4109-a334-e9683ac1eac5.png" width="45%"></img> 
 
+
+Os campos string com N na frente os caracteres UNICODE serão armazenados neste campo.N significa UNICODE. Permite o armazenamento de todos os caracteres limitando-se aos latinos.
+
+
+Alternativa correta! N significa UNICODE. Permite o armazenamento de todos os caracteres limitando-se aos latinos.
+
 **Fiz o curso da alura com o SQL Develpment  e com a interface SQL Server Managment Studio**
 
 
