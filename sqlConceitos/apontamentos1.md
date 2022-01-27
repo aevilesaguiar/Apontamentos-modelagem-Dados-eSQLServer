@@ -98,6 +98,18 @@ inicial do arquivo, tamanho máximo e de quanto ele vai crescer, e a mesma coisa
 **Se fossemos criar da maneira padrão o BD**
 CREATE DATABASE SUCOS_VENDAS_01;
 
+
+**APAGANDO BANCO DE DADOS**
+DROP DATABASE[SUCOS_VENDAS_04]
+
+**Tipos de dados**
+<img src="https://user-images.githubusercontent.com/52088444/151423678-f7123bdb-ac1e-491a-8e66-eb7866fb4e62.png" width="30%"></img> 
+
+<img src="https://user-images.githubusercontent.com/52088444/151423773-75a01cfa-e501-4417-9a56-b773289185ba.png" width="90%"></img> 
+
+
+
+
 **Fiz o curso da alura com o SQL Develpment  e com a interface SQL Server Managment Studio**
 
 
