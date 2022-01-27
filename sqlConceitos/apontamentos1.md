@@ -33,7 +33,8 @@ Um servdor/ Instancia do SQL Server pode possuir diversos Bancos de dados, BD é
 Eu posso separar o BD por tema assunto, um BD pode se comunicar entre si, desde que estejam no mesmos ervidor
 
 - ESQUEMA(SCHEMA)
-- Esquema padrão =DBO
+- Esquema padrão =DBO (aquele esquema default, todo mundo esta relacionado ao dbo
+<img src="https://user-images.githubusercontent.com/52088444/151411850-d2b170e0-c5e3-48ab-b6db-e5db8e9a31f8.png" width="45%"></img> 
 
 **Dentro do Esquema eu posso ter
 
@@ -61,6 +62,15 @@ A tabela é o componente mais importante do BD;
 
 
 ## Conhecendo o SQL Server Management Studio
+Dentro de cada tabela nós temos os dados da tabela
+<img src="https://user-images.githubusercontent.com/52088444/151412306-4f31aa7d-4a16-4f14-b24b-7d161df05364.png" width="45%"></img> 
+
+- Colunas ou "campo"
+- chaves (primarys keys)
+- Restrições (constraints)
+- Gatilhos (regras que eu vão disparar quando alguma coisa acontecer. Exemplo quando eu fizer uma ação dispara tal coisa)
+- índices(são estruturas que eu ligo ao campo para fazer consultas mais rapidas)
+- estatísticas
 
 
 
