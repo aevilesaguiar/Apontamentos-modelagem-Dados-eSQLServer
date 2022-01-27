@@ -79,8 +79,11 @@ Dentro de cada tabela nós temos os dados da tabela
 <img src="https://user-images.githubusercontent.com/52088444/151203730-fde8c51e-7886-43c6-bc76-7b60f9805a9e.png" width="90%"></img> 
 
 
+<img src="https://user-images.githubusercontent.com/52088444/151415105-04eea1a2-02c6-4447-88ba-8662d9780be4.png" width="45%"></img> 
 
-
+- O ARQUIVO QUE TEM O BD , a base de dados - é o mdf
+- ldf arquivo de transações
+- Quando eu crio um arquivo no sql server são criados automaticamente os dois arquivos com o mesmo nome e as duas extensões mdf e ldf
 
 **Fiz o curso da alura com o SQL Develpment  e com a interface SQL Server Managment Studio**
 
