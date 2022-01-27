@@ -27,10 +27,45 @@
 
 - DCL - Data Control Language(Linguagem de Controle de Dados). Administra o ambiente, acesso do usuario, o que cada usuario pode acessar, como armazenar tal tabela no disco, controle de logs,  qual vai ser a política de crescimento daquela tabela ao longo do tempo, na medida em que dados forem sendo incluídas nas tabelas.
 
+## Definição de banco de Dados(SQL SERVER)
+
+Um servdor/ Instancia do SQL Server pode possuir diversos Bancos de dados, BD é a unidade de agregação mais importante do SQL Server
+Eu posso separar o BD por tema assunto, um BD pode se comunicar entre si, desde que estejam no mesmos ervidor
+
+- ESQUEMA(SCHEMA)
+- Esquema padrão =DBO
+
+**Dentro do Esquema eu posso ter
+
+- TABELAS(TABLE)
+- VISÕES(VIEWS)
+- RESTRIÇÕES(CONTRAINTS)
+- PROGRAMAÇÕES
+
+A tabela é o componente mais importante do BD;
+   - Numeros de linhas= capacidade do banco
+   - Numero de colunas = Fixo , todos os valores que estão numa coluna tem o mesmo tipo. Ex.: texto, numero, data...., As colunas tem o mesmo tipo e nome, e são dadas para gravar o tipo de informação que estou guardando
+   - Linhas são chamadas de registros 
+   - Colunas são chamadas de campo
+   - Constraints são regras de validação de dados , uma restrição por exemplo e se o campo pode receber vazio, ou não vazio(not null) 
+   - Chave primaria(Primary key) não pode ter linhas com valores nas PKS repetidos , ou seja isso é uma constraint também.
+   - Foreign key(chave estrangeira) - não podemos incluir valores no campo que não exista em outro campo de outra tabela, relacionamento entre tabelas, é através dela que existe o relacionamento, isso também é uma constraint
+   - 
+
+
+
+
+
 **Em 2019 melhorias pontuais nos módulos SQL**
 ## Versões SQL
 <img src="https://user-images.githubusercontent.com/52088444/151203730-fde8c51e-7886-43c6-bc76-7b60f9805a9e.png" width="90%"></img> 
 
+
+
+
+
 **Fiz o curso da alura com o SQL Develpment  e com a interface SQL Server Managment Studio**
+
+
 
 
