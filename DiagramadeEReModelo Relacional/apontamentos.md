@@ -39,5 +39,24 @@ refere-se a descrição do banco de dados. Normalmente não muda. O que muda é 
 <img src="https://user-images.githubusercontent.com/52088444/151546838-8507132b-5531-4a98-bbb7-e76d0a5086b3.png" width="90%"></img> 
 
 
+## Modelo Entidade e Relacionamento(MER)
+
+- 1° PASSO- entrevista com o cliente para entender o que ele precisa
+- 2° ENTIDADE MODELO E RELACIONAMENTO
+
+<img src="https://user-images.githubusercontent.com/52088444/151548132-f40fa911-5837-4979-85dc-7abbb1385bfc.png" width="90%"></img> 
+
+
+**Dados ER**
+
+- Entidade - representa uma coisa ou objeto do mundo real com uma existencia independete, a entidade possui uma existencia física ou conceitual, cada entidade possui atributos. Eles descrevem a Entidade.
+
+<img src="https://user-images.githubusercontent.com/52088444/151548457-16c4348c-ab12-4a4a-8a79-51283d04e871.png" width="90%"></img> 
+
+- Atributos Simples ou compostos, vai depender de como o usuario precisa
+Ex: compostos: endereço;  simples: cidade, logradouro
+
+## relacionamento
+<img src="https://user-images.githubusercontent.com/52088444/151550819-a4d9f200-9f82-4749-b07c-91c2a434b486.png" width="90%"></img> 
 
 
