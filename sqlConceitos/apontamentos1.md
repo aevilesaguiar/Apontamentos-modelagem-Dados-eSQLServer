@@ -141,7 +141,18 @@ Os campos string com N na frente os caracteres UNICODE serão armazenados neste 
 
 Alternativa correta! N significa UNICODE. Permite o armazenamento de todos os caracteres limitando-se aos latinos.
 
+## Informações
+
+- CREATE TABLE [TABELA DE CLIENTES] os colchetes são usados no SQL Server quando eu quero usar espaços, posso ter o nome de uma tabela com acento
+
+- Qual o comando para apagar uma tabela chamada FABRICA no banco de dados Suco_de_Frutas? Lembre-se que queremos, através de comando, ter certeza que estamos apagando a tabela no banco de dados correto.
+
+USE Suco_de_Frutas
+DROP TABLE [FABRICA];
+
 **Fiz o curso da alura com o SQL Develpment  e com a interface SQL Server Managment Studio**
+
+
 
 
 
