@@ -59,4 +59,33 @@ Ex: compostos: endereço;  simples: cidade, logradouro
 ## relacionamento
 <img src="https://user-images.githubusercontent.com/52088444/151550819-a4d9f200-9f82-4749-b07c-91c2a434b486.png" width="90%"></img> 
 
+# Entidade
 
+<img src="https://user-images.githubusercontent.com/52088444/151553240-5473af32-9186-4cf7-afb2-bfbfac42aa0e.png" width="45%"></img> 
+
+<img src="https://user-images.githubusercontent.com/52088444/151553455-a39c117c-175f-442b-8738-de8f4e729e60.png" width="45%"></img> 
+
+**Como se representa, graficamente, os relacionamentos de entidades dependentes?**
+Com um losango duplo
+
+## representação de componentes
+
+<img src="https://user-images.githubusercontent.com/52088444/151554676-e7c311fa-facb-4f99-a4cc-7ccfe96af912.png" width="45%"></img> 
+
+<img src="https://user-images.githubusercontent.com/52088444/151554945-caf4bf05-b613-47fd-a699-c63a22238eac.png" width="45%"></img> 
+
+<img src="https://user-images.githubusercontent.com/52088444/151555037-69aeb318-672b-41b5-bd2d-992bf4895fb2.png" width="90%"></img> 
+
+
+**generalização ou especialização**
+<img src="https://user-images.githubusercontent.com/52088444/151555742-b3efc162-1292-4f00-9fbc-ef7ee3706c61.png" width="45%"></img> 
+
+**convenção mais usada, mais existem outras**
+
+# Estudo de Caso
+
+- Queremos coletar os dados pessoais de nossos **clientes** como pessoa física ou jurídica. No caso de física, coletaremos o CPF e o RG, e no caso da jurídica, o CNPJ e IE. Mas também queremos coletar o nome, endereço, telefone e e-mail;
+- Nossa livraria vende **livros** com informações associadas, como título, categoria, ISBN (International Standard Book Number), ano de publicação, valor, editoria e autor ou autores;
+- Os livros são fornecidos por **editoras** que precisam ter o telefone, nome de contato, e-mail e no máximo dois telefones;
+- Não podemos ter o mesmo livro de várias editoras, pois é exclusivo desta;
+- O cliente pode comprar um ou mais livros por um **pedido de compra**. Mas sempre que faz uma compra, precisamos verificar a disponibilidade no **estoque** para terminar a operação.
