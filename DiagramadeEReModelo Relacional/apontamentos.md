@@ -34,9 +34,9 @@ Acesso a estrutura de armazenamento e índices.
 refere-se a descrição do banco de dados. Normalmente não muda. O que muda é o conteudo do BD.
 
 
+## Etapas
 
-
-
+<img src="https://user-images.githubusercontent.com/52088444/151546838-8507132b-5531-4a98-bbb7-e76d0a5086b3.png" width="90%"></img> 
 
 
 
